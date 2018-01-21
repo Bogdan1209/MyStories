@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MyStories.BL\MyStories.BL.csproj" />
-    <ProjectReference Include="..\MyStories.DAL\MyStories.DAL.csproj" />
   </ItemGroup>
 
 </Project>
